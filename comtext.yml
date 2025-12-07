@@ -1,0 +1,10 @@
+vuepress:
+  title: "Текстология"
+  base: "/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
+  - content/васина-о-завершении-публикации-экономического-наследия-карла-маркса-в-издании-мэга.md
