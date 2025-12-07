@@ -1,7 +1,7 @@
 vuepress:
   title: "Текстология"
   base: "/"
-  revisionmeProjectId: ""
+  revisionmeProjectId: "-Ofsb9xNcvwiwaFid1r0"
 
 pages:
   - index.md
