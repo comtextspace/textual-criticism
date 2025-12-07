@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Текстология</title>
+  <entry>
+    <title>О завершении публикации экономического наследия Карла Маркса в издании МЭГА (Marx—Engels—Gesamtausgabe)</title>
+    <updated>2025-12-07T14:57:43.269Z</updated>
+    <link href="files/vasina-o-zavershenii-publikacii-ekonomicheskogo-naslediya-karla-marksa-v-izdanii-mega.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Людмила Леонидовна Васина</name>
+    </author>
+  </entry>
+</feed>
