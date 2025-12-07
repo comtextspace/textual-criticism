@@ -14,3 +14,7 @@
 
 - [О воспитательном значении текстологической работы](https://propjourn.github.io/site/static/о_воспитательном_значении_текстологической_работы.html)
 - [Что не так с текстологией и как исправить ситуацию](https://propjourn.github.io/site/static/что_не_так_с_текстологией_и_как_исправить_ситуацию.html)
+
+## Книги
+
+- Козловский С. А. Открытая библиотека [PDF](https://mega.nz/file/YTFikDrC#QSh5k2Rt3B32ZyaZQOvPR1Rv0eU_Ysl2j9GpWmrB2yY){.file-link}
