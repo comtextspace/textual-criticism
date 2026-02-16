@@ -31,7 +31,6 @@
 * **Засурский И.** [Авторские права в интернете](https://mega.nz/file/YTdnyDpR#_LkVN4CZ5D82BvvPzoZO0uRfXPNvDsrf98UIXkzYiJU) (2012)
 * [Трансформация авторского права в интернете](https://mega.nz/file/ce1HFCZT#UAbEveWeDPEfUxPer4U64gKkv9u2EE57zxMQ3eu5yjE) (2013)
 * **Левов И.**, **Шуклин Г.**, **Винник Д.** [Права интернет-пользователей: Россия и мир, теория и практика](https://mega.nz/file/dGUkCZoS#Ol4Unc3AiCn4R6j2GH8I_hn6FG1jxWXwMpDSup4GxPM) (2013)
-
 * **Засурский И.**, **Семячкин Д.**, **Сергеев М.**, **Харитонов В.** [Инфраструктура ноосферы](https://mega.nz/file/wCckQKJA#kuy5zjtMXdEbP-dJRlTj2S6J38qmscA-Ifa2hXvDAuw) (2016)
 * [Общественное достояние](https://mega.nz/file/cHEmxRIL#fP34G_J8Abn8Xy5kgMMFs4V3v4vLbefA7pVGT6P4PHk) (2016)
 * **Харитонов В.**, **Засурский И.** [Информационная сверхпроводимость: авторское право как инструмент развития](https://mega.nz/file/daUinJ7b#a82z0TYkaRW4GUvk45VqB31RHY_NwsHBD-JmJXf6Nx8) (2016)
