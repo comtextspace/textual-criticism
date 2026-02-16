@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Текстология</title>
+  <entry>
+    <title>О завершении публикации экономического наследия Карла Маркса в издании МЭГА (Marx—Engels—Gesamtausgabe)</title>
+    <updated>2026-02-16T18:26:16.956Z</updated>
+    <link href="files/vasina-o-zavershenii-publikacii-ekonomicheskogo-naslediya-karla-marksa-v-izdanii-mega.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Людмила Леонидовна Васина</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Копирайт и доступность</title>
+    <updated>2026-02-16T18:26:16.962Z</updated>
+    <link href="files/kondratovich-kopirayt-i-dostupnost.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. И. Кондратович</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 1)</title>
+    <updated>2026-02-16T18:26:16.970Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-1.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 2)</title>
+    <updated>2026-02-16T18:26:16.977Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-2.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 3)</title>
+    <updated>2026-02-16T18:26:16.986Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-3.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 4)</title>
+    <updated>2026-02-16T18:26:16.992Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-4.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+</feed>
