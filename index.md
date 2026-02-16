@@ -23,25 +23,27 @@
 
 * **Кондратович М. И.** [Копирайт и доступность](кондратович-копирайт-и-доступность.md) (2010)
 
-## Ассоциация интернет-издателей 
+### Ассоциация интернет-издателей 
 
 Книги [Ассоциации интернет-издателей](https://webpublishers.ru).
 
-* **Цюпко Ю. М.** [Практика открытой публикации учебных работ в российских вузах](https://mega.nz/file/ZClBnYYY#Edmy4tlNX1lrS2UjEDi2zOQC9mNfGuFW_hCCL6mRnao) (2017)
-* **Засурский И.**, **Лагун С.**, **Трищенко Н.** [Востребованное образование в открытом доступе. Пособие по организации открытой публикации учебных и выпускных работ и проведению конкурсов. 2-е издание](https://mega.nz/file/peNiRbyJ#rUZrca78KEKK5J4JwLqrS1RPIjUyFnhpihM-Rydr1lA) (2018)
-* [Научный корреспондент. Сборник материалов](https://mega.nz/file/lCVSkBjC#8hq7mWAsG69CB3X3fDLaPCAQwXQau3ePNhoycJgyz6Y) (2018)
-* **Козловский С. А.**, **Корольков А. Ю.**, **Медейко В. В.** [Культурное наследие и общественное достояние](https://mega.nz/file/1LMDiIoD#YZohgGc3rfii4u229HgizVRtAVR27OiUXKH2K8vSdUE) (2019)
-* **Засурский И.**, **Горбунова А.**, **Рязанова Д.** [Доступ к культуре и культура доступа](https://mega.nz/file/Qb0WySzI#EEOaDEwwpGHmH2yGB2SA7cQpEJ0Y5pDyfHHbeh1g8GU) (2018)
-* **Горбунова А.**, **Засурский И.** [Открытая культура](https://mega.nz/file/0bUnBY6R#flA51CN5YAfWy7iynaViJ4E_M4bUNYgFj85Uwbzg_-s) (2018)
-* **Засурский И.**, **Семячкин Д.**, **Сергеев М.**, **Харитонов В.** [Инфраструктура ноосферы](https://mega.nz/file/wCckQKJA#kuy5zjtMXdEbP-dJRlTj2S6J38qmscA-Ifa2hXvDAuw) (2016)
+
 * **Засурский И.** [Авторские права в интернете](https://mega.nz/file/YTdnyDpR#_LkVN4CZ5D82BvvPzoZO0uRfXPNvDsrf98UIXkzYiJU) (2012)
+* [Трансформация авторского права в интернете](https://mega.nz/file/ce1HFCZT#UAbEveWeDPEfUxPer4U64gKkv9u2EE57zxMQ3eu5yjE) (2013)
+* **Левов И.**, **Шуклин Г.**, **Винник Д.** [Права интернет-пользователей: Россия и мир, теория и практика](https://mega.nz/file/dGUkCZoS#Ol4Unc3AiCn4R6j2GH8I_hn6FG1jxWXwMpDSup4GxPM) (2013)
+
+* **Засурский И.**, **Семячкин Д.**, **Сергеев М.**, **Харитонов В.** [Инфраструктура ноосферы](https://mega.nz/file/wCckQKJA#kuy5zjtMXdEbP-dJRlTj2S6J38qmscA-Ifa2hXvDAuw) (2016)
 * [Общественное достояние](https://mega.nz/file/cHEmxRIL#fP34G_J8Abn8Xy5kgMMFs4V3v4vLbefA7pVGT6P4PHk) (2016)
 * **Харитонов В.**, **Засурский И.** [Информационная сверхпроводимость: авторское право как инструмент развития](https://mega.nz/file/daUinJ7b#a82z0TYkaRW4GUvk45VqB31RHY_NwsHBD-JmJXf6Nx8) (2016)
 * **Засурский И.** [Новая модель регулирования авторских прав](https://mega.nz/file/QaM1Xa4D#6LCazyE0HolxVZN5utzcaMmaEJkFbpdn0v01IQvWO_s) (2016)
 * [Общественное достояние. Как открыть доступ к культуре и знаниям](https://mega.nz/file/cbUlkLqZ#N92HdmW2CTnLSrfCi5ZzygtL8CdzlN-4Tp7FExlTRWY) (2016)
-* **Трищенко Н.** [Открытый доступ к науке](https://mega.nz/file/YTdlRZ6A#sZNqA3I5sjW1dfG7sbu5quYNn7DplxI5wYKYm0i7M1o) (2017)
 * **Харитонов В.** [Электронное книгоиздание в России](https://mega.nz/file/cLNXBDAY#hkL9N40pkzaOxHCHh9vjvUaLaTB3H5P9Iuq08JjgqTk) (2016)
-* [Прозрачная система образования](https://mega.nz/file/dCFkRAKT#ZM7jFdQUHPBA-f0d3lpnnmMP35FdlMKUg_4pdtnhMdM) (2017)
 * **Левова И. Ю.**, **Винник Д. В.**, **Моисеева А. Ю.** [Сиротские произведения в России: статус, пути решения проблемы](https://mega.nz/file/desg3ZwL#hBdX7Z-hUttKGR8WSJJiu619rnKNO75VG4Z3AghqGsc) (2016)
-* [Трансформация авторского права в интернете](https://mega.nz/file/ce1HFCZT#UAbEveWeDPEfUxPer4U64gKkv9u2EE57zxMQ3eu5yjE) (2013)
-* **Левов И.**, **Шуклин Г.**, **Винник Д.** [Права интернет-пользователей: Россия и мир, теория и практика](https://mega.nz/file/dGUkCZoS#Ol4Unc3AiCn4R6j2GH8I_hn6FG1jxWXwMpDSup4GxPM) (2013)
+* **Цюпко Ю. М.** [Практика открытой публикации учебных работ в российских вузах](https://mega.nz/file/ZClBnYYY#Edmy4tlNX1lrS2UjEDi2zOQC9mNfGuFW_hCCL6mRnao) (2017)
+* **Трищенко Н.** [Открытый доступ к науке](https://mega.nz/file/YTdlRZ6A#sZNqA3I5sjW1dfG7sbu5quYNn7DplxI5wYKYm0i7M1o) (2017)
+* [Прозрачная система образования](https://mega.nz/file/dCFkRAKT#ZM7jFdQUHPBA-f0d3lpnnmMP35FdlMKUg_4pdtnhMdM) (2017)
+* **Засурский И.**, **Лагун С.**, **Трищенко Н.** [Востребованное образование в открытом доступе. Пособие по организации открытой публикации учебных и выпускных работ и проведению конкурсов. 2-е издание](https://mega.nz/file/peNiRbyJ#rUZrca78KEKK5J4JwLqrS1RPIjUyFnhpihM-Rydr1lA) (2018)
+* [Научный корреспондент. Сборник материалов](https://mega.nz/file/lCVSkBjC#8hq7mWAsG69CB3X3fDLaPCAQwXQau3ePNhoycJgyz6Y) (2018)
+* **Засурский И.**, **Горбунова А.**, **Рязанова Д.** [Доступ к культуре и культура доступа](https://mega.nz/file/Qb0WySzI#EEOaDEwwpGHmH2yGB2SA7cQpEJ0Y5pDyfHHbeh1g8GU) (2018)
+* **Горбунова А.**, **Засурский И.** [Открытая культура](https://mega.nz/file/0bUnBY6R#flA51CN5YAfWy7iynaViJ4E_M4bUNYgFj85Uwbzg_-s) (2018)
+* **Козловский С. А.**, **Корольков А. Ю.**, **Медейко В. В.** [Культурное наследие и общественное достояние](https://mega.nz/file/1LMDiIoD#YZohgGc3rfii4u229HgizVRtAVR27OiUXKH2K8vSdUE) (2019)
