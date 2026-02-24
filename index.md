@@ -29,7 +29,6 @@
 
 Книги [Ассоциации интернет-издателей](https://webpublishers.ru).
 
-
 * **Засурский И.** [Авторские права в интернете](https://mega.nz/file/YTdnyDpR#_LkVN4CZ5D82BvvPzoZO0uRfXPNvDsrf98UIXkzYiJU) (2012)
 * [Трансформация авторского права в интернете](https://mega.nz/file/ce1HFCZT#UAbEveWeDPEfUxPer4U64gKkv9u2EE57zxMQ3eu5yjE) (2013)
 * **Левов И.**, **Шуклин Г.**, **Винник Д.** [Права интернет-пользователей: Россия и мир, теория и практика](https://mega.nz/file/dGUkCZoS#Ol4Unc3AiCn4R6j2GH8I_hn6FG1jxWXwMpDSup4GxPM) (2013)
