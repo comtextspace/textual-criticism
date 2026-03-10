@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Текстология</title>
+  <entry>
+    <title>О завершении публикации экономического наследия Карла Маркса в издании МЭГА (Marx—Engels—Gesamtausgabe)</title>
+    <updated>2026-03-10T14:14:02.514Z</updated>
+    <link href="files/vasina-o-zavershenii-publikacii-ekonomicheskogo-naslediya-karla-marksa-v-izdanii-mega.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Людмила Леонидовна Васина</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Текстология и искры</title>
+    <updated>2026-03-10T14:14:02.527Z</updated>
+    <link href="files/zarya-tekstologiya-i-iskry.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Заря</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Что такое текстологическая работа и зачем она нужна</title>
+    <updated>2026-03-10T14:14:02.666Z</updated>
+    <link href="files/zarya-chto-takoe-tekstologicheskaya-rabota-i-zachem-ona-nuzhna.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Заря</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Копирайт и доступность</title>
+    <updated>2026-03-10T14:14:02.673Z</updated>
+    <link href="files/kondratovich-kopirayt-i-dostupnost.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. И. Кондратович</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 1)</title>
+    <updated>2026-03-10T14:14:02.681Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-1.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 2)</title>
+    <updated>2026-03-10T14:14:02.689Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-2.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 3)</title>
+    <updated>2026-03-10T14:14:02.698Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-3.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Перевод текстов Майкла Харта, автора Проекта Гутенберг (часть 4)</title>
+    <updated>2026-03-10T14:14:02.709Z</updated>
+    <link href="files/perevod-tekstov-maykla-harta-4.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Майкл Харт</name>
+    </author>
+  </entry>
+</feed>
