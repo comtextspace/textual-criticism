@@ -20,6 +20,10 @@
 ## Книги
 
 * **Козловский С. А.** Открытая библиотека (2017) [PDF](https://mega.nz/file/YTFikDrC#QSh5k2Rt3B32ZyaZQOvPR1Rv0eU_Ysl2j9GpWmrB2yY){.file-link}
+* **Лихачев Л. С.** Текстология (1962) [PDF](https://mega.nz/file/deN0WbjC#gUJ7C0Urr0BDGaq-Q4cnA9SY6RLwoPPH31C50aBnOXM){.file-link}
+* **Рейсер С. А.** Основы текстологии (1978) [PDF](https://mega.nz/file/ED9ByThL#d0QovdmGa5iCjXNL5GNA5MeXtBYR1vAIhAgWYT9pROg){.file-link}
+* **Чудакова С. А.** Рукопись и книга (1986) [PDF](https://mega.nz/file/FCdlASQB#5Azk8XnUs4t2SdWIgPE3v_vuxfOG2Is9RFFNWUDQgiY){.file-link}
+* **Печерская Т. И.** Текстология и комментарий текста (2018) [PDF](https://mega.nz/file/ED0DQbZQ#kZJNCD7I7ywq24tf-j241MDzX5DeV6u1I_OtJ7LKgB0){.file-link}
 
 ## Про копирайт
 
