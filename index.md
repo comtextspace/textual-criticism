@@ -24,6 +24,7 @@
 * **Рейсер С. А.** Основы текстологии (1978) [PDF](https://mega.nz/file/ED9ByThL#d0QovdmGa5iCjXNL5GNA5MeXtBYR1vAIhAgWYT9pROg){.file-link}
 * **Чудакова С. А.** Рукопись и книга (1986) [PDF](https://mega.nz/file/FCdlASQB#5Azk8XnUs4t2SdWIgPE3v_vuxfOG2Is9RFFNWUDQgiY){.file-link}
 * **Печерская Т. И.** Текстология и комментарий текста (2018) [PDF](https://mega.nz/file/ED0DQbZQ#kZJNCD7I7ywq24tf-j241MDzX5DeV6u1I_OtJ7LKgB0){.file-link}
+* **Покровский А. А.** [Библиотечная работа. О культурной и социальной работе народной библиотеки](./покровский-библиотечная-работа.md) (1919) [[files покровский-библиотечная-работа]]
 
 ## Про копирайт
 
